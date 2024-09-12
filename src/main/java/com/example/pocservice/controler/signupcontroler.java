@@ -1,4 +1,4 @@
 package com.example.pocservice.controler;
 
-public class signupcontroler {
+public interface signupcontroler {
 }
